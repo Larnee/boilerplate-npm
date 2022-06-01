@@ -1,4 +1,5 @@
 {
+	"author": "Lauren Schwarz",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
