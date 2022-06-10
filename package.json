@@ -3,6 +3,7 @@
 	"author": "Lauren Schwarz",
 	"description": "A freecodecamp project for learning backend development.",
 	"keywords": [ "freecodecamp", "backend", "nodejs" ],
+	"license": "GNU GPL",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
