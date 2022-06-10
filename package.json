@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Lauren Schwarz",
 	"description": "A freecodecamp project for learning backend development.",
+	"keywords": [ "freecodecamp", "backend", "nodejs" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
